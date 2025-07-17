@@ -1,5 +1,4 @@
-# AMD-Developer-Central
-Home: [official: Developer Central](https://www.amd.com/en/developer.html)
+# Home: AMD official: [Developer Central](https://www.amd.com/en/developer.html)
 
 ## [ROCm Developer Hub](https://www.amd.com/en/developer/resources/rocm-hub.html)
 
